@@ -1,0 +1,11 @@
+name: kp_ann_gui
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - conda
+  - wxpython
+  - scikit-video
+prefix: /home/andres/anaconda3/envs/kp_ann_gui
+
