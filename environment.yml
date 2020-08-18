@@ -7,5 +7,6 @@ dependencies:
   - conda
   - wxpython
   - scikit-video
+  - ffmpeg
 prefix: /home/andres/anaconda3/envs/kp_ann_gui
 
